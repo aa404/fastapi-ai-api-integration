@@ -133,10 +133,3 @@ This repository provides a quick and seamless integration of the OpenAI, Gemini,
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README to better fit your project. If you have any questions or need further assistance, please don't hesitate to ask.
