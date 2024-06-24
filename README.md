@@ -123,7 +123,7 @@ This repository provides a quick and seamless integration of the OpenAI, Gemini,
 ## Configuration
 
 - **Environment Variables**: Configure your API keys and other settings in the `.env` file.
-- **Logging**: Modify logging settings in `logging.conf`.
+- **Logging**: Modify logging settings in `main.py`.
 
 ## Contributing
 
