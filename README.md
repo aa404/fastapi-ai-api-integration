@@ -135,7 +135,7 @@ This repository provides a quick and seamless integration of the OpenAI, Gemini,
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
